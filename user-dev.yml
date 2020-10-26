@@ -15,3 +15,5 @@ spring:
     host: 10.1.100.34
     port: 6379
     password: xc123#
+config:
+  info: 弟弟行为
